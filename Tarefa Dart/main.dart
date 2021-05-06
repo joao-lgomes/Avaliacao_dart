@@ -13,7 +13,7 @@ void main() {
   int opc2 = 0;
 
   do {
-    print('\n\n\n-------------------- MENU DE OPÇOES --------------------');
+    print('\n\n\n-------------------- MENU DE OPÇÕES --------------------');
     print('1 - Inserir elementos');
     print('2 - Mostrar projetos cadastrados');
     print('3 - Mostrar membros cadastrados');
